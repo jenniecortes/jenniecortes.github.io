@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+.col-left {
+    width: 30%;
+    height: 700px;
+    float: left;
+    background-color: rosybrown;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.mainContent {
+    width: 70%;
+    height: 700px;
+    float: left;
+    background-color: steelblue;
+}
+
+
+.petTitle {
+    font-weight: bold;
+}
+.stats {
+    font-size: 16px;
+    color: #FFF;
+}
+nav {
+    height: 50px;
+}
+.navItem {
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px 30px;
+}
